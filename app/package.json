@@ -1,0 +1,9 @@
+{
+  "name": "pb-l1-node",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node build.mjs",
+    "start": "node server.js"
+  }
+}
